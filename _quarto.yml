@@ -7,6 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+        icon: house-door-fill
       - about.qmd
 
 format:
