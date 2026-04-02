@@ -2,6 +2,6 @@
 title: "lab11"
 ---
 
-# Clara's Website 
+# Clara's Website
 
 Welcome to my lab 11 website for BIOSTAT 620!
