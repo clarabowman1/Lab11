@@ -1,22 +1,25 @@
 project:
   type: website
   output-dir: docs
+
 website:
-  title: "lab11"
+  title: "Clara Bowman"
   navbar:
     left:
       - href: index.qmd
         text: Home
         icon: house-door-fill
-      - about.qmd
+      - href: interest.qmd
+        text: My Interests
+        icon: heart-fill
 
 format:
   html:
     theme:
       - cosmo
       - brand
-    css: styles.css
     toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
 
 editor: visual
-

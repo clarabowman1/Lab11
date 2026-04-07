@@ -1,7 +1,21 @@
 ---
-title: "lab11"
+title: "Clara's Website"
+format: html
 ---
 
-# Clara's Website
+<div style="text-align: center;">
 
-Welcome to my lab 11 website for BIOSTAT 620!
+![](images/headshot.JPG){fig-alt="Profile Picture" style="border-radius: 50%;" width="350"}
+
+<p>
+<a href="files/Clara_Bowman_CV.pdf">Download my CV</a>
+</p>
+
+</div>
+
+---
+
+## About Me
+
+Hi! I'm Clara, a senior studying Information Analysis with an interest in health data science.  
+I enjoy working with data, especially in healthcare contexts, and I’m passionate about using analytics to improve patient outcomes.

@@ -1,9 +1,0 @@
----
-title: "About"
----
-
-I am Clara and I am a first year master of Health Data Science student at the University of Michigan! In my free time I enjoy knitting. ![My proudest completed knit object the Moby Sweater finished in January 2026](images/finished_moby.jpeg)
-
-I also love to be outdoors, hike, try good new foods and travel (especially when I can do all at once) ![Volcano hiking on my most recent trip to Nicaragua](images/nicaragua.JPG)
-
-I am a pretty avid runner. I am "training" for my fourth marathon that is coming up at the beginning of May in Prague. However, I am currently dealing with injury so my running is on pause. My most recent marathon was in Ann Arbor (see how I did [here](https://my.raceresult.com/365741/))

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "lab11",
+    "title": "Clara’s Website",
     "section": "",
-    "text": "Clara’s Website\nWelcome to my lab 11 website for BIOSTAT 620!"
+    "text": "Download my CV"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,61 @@
     "title": "About",
     "section": "",
     "text": "I am Clara and I am a first year master of Health Data Science student at the University of Michigan! In my free time I enjoy knitting. \nI also love to be outdoors, hike, try good new foods and travel (especially when I can do all at once) \nI am a pretty avid runner. I am “training” for my fourth marathon that is coming up at the beginning of May in Prague. However, I am currently dealing with injury so my running is on pause. My most recent marathon was in Ann Arbor (see how I did here)"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Clara’s Website",
+    "section": "About Me",
+    "text": "About Me\nHi! I’m Clara, a senior studying Information Analysis with an interest in health data science.\nI enjoy working with data, especially in healthcare contexts, and I’m passionate about using analytics to improve patient outcomes."
+  },
+  {
+    "objectID": "index.html#my-cv",
+    "href": "index.html#my-cv",
+    "title": "Clara’s Website",
+    "section": "My CV",
+    "text": "My CV\nYou can download my CV here:"
+  },
+  {
+    "objectID": "index.html#more-coming-soon",
+    "href": "index.html#more-coming-soon",
+    "title": "Clara’s Website",
+    "section": "More Coming Soon",
+    "text": "More Coming Soon\nThis site will be updated with my projects and coursework!"
+  },
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "My Interests",
+    "section": "",
+    "text": "Hi! I’m Clara, a first-year Master’s student in Health Data Science at the University of Michigan."
+  },
+  {
+    "objectID": "interests.html#about-me",
+    "href": "interests.html#about-me",
+    "title": "My Interests",
+    "section": "",
+    "text": "Hi! I’m Clara, a first-year Master’s student in Health Data Science at the University of Michigan."
+  },
+  {
+    "objectID": "interests.html#knitting",
+    "href": "interests.html#knitting",
+    "title": "My Interests",
+    "section": "Knitting",
+    "text": "Knitting\nIn my free time, I love knitting—it’s one of my favorite ways to relax and unwind."
+  },
+  {
+    "objectID": "interests.html#travel",
+    "href": "interests.html#travel",
+    "title": "My Interests",
+    "section": "Travel",
+    "text": "Travel\nI also love being outdoors—especially hiking, trying new foods, and traveling (even better when I can do all three at once!)."
+  },
+  {
+    "objectID": "interests.html#running",
+    "href": "interests.html#running",
+    "title": "My Interests",
+    "section": "Running",
+    "text": "Running\nI’m an avid runner and currently “training” for my fourth marathon, coming up in early May in Prague.\nRight now, I’m dealing with an injury, so running is on pause—but I’m hoping to be back soon.\nMy most recent marathon was in Ann Arbor—check out my results here."
   }
 ]
