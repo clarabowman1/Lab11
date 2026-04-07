@@ -17,5 +17,6 @@ format: html
 
 ## About Me
 
-Hi! I'm Clara, a senior studying Information Analysis with an interest in health data science.  
-I enjoy working with data, especially in healthcare contexts, and I’m passionate about using analytics to improve patient outcomes.
+Hi! I'm Clara, a first-year Master of Health Data Science student at the University of Michigan 
+Biostatistics Department. Some of my research experiences include cardiovascular outcomes
+research and analyzing wearable technology data. 
