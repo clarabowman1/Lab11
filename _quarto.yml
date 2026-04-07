@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
         icon: house-door-fill
-      - href: interest.qmd
+      - href: interests.qmd
         text: My Interests
         icon: heart-fill
 
